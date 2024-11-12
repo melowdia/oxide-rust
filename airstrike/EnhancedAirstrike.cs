@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace Oxide.Plugins
 {
-    [Info("EnhancedAirstrike", "Melodia", "1.2.0")]
+    [Info("EnhancedAirstrike", "Melodia", "1.0.0")]
     [Description("Allows players to call an MLRS strike on other players, with admin-exclusive features and cooldown management.")]
 
     public class EnhancedAirstrike : RustPlugin

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Oxide.Plugins
 {
-    [Info("EpicLootCrate", "LungWang", "1.2.0")]
+    [Info("EpicLootCrate", "Melodia", "1.2.0")]
     [Description("Spawns a locked crate with loot, protected by bots and possibly a Bradley, every 3 to 4 hours. Admins can also spawn it manually.")]
 
     public class EpicLootCrate : RustPlugin

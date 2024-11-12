@@ -1,0 +1,47 @@
+[FR]
+
+voici les information sur le script backpack
+
+
+le backpack est un inventaire qui persite apres la mort donc si vous avez des item/ressources/armes ild restent en place
+
+il y 3 type de backpack
+
+backpack joueur normal qui a 4 places
+
+backpack joueur VIP qui a 5 places
+
+backpack admin qui a 10 places 
+
+biensur le nombre est modifiiable.
+
+pour ouvrir le backpack il y a deux possibilité soit faire dans le tchat /backpack soit en cliquant sur le petit logo en bas a droite.
+
+pour les permissions aux joueurs
+
+oxide.grant user <username> backpack.vip
+oxide.grant user <username> backpack.admin
+
+
+[EN]
+
+here is the information on the backpack script
+
+the backpack is an inventory that persists after death so if you have items/resources/weapons they stay in place
+
+there are 3 types of backpack
+
+normal player backpack that has 4 places
+
+VIP player backpack that has 5 places
+
+admin backpack that has 10 places
+
+of course the number is modifiable.
+
+to open the backpack there are two possibilities either do it in the chat / backpack or by clicking on the small logo at the bottom right.
+
+for player permissions
+
+oxide.grant user <username> backpack.vip
+oxide.grant user <username> backpack.admin

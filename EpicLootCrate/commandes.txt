@@ -1,0 +1,36 @@
+[FR]
+
+commandes pour reload via oxide
+
+oxide.reload EpicLootCreate
+
+comande admin pour forcer le spawn de la caisse 
+/spawncrate
+
+la caisse spawn de base toute les 3 ou 4 heures.
+
+vous pouvez choisir le nombre de bot qui spawn en modifiant le nombre  BotCount
+  private const int BotCount = 10; au lieu de 10 mettre le nombre que vous voulez
+
+vous pouvez modifier la probabilité du spawn de bradley en modifiant la ligne BradleyChance
+    private const float BradleyChance = 0.3f; en modifiant le 0.3f par un autyre nombre 0.xf actuellement 0.3f = 30%
+
+
+[FR]
+
+commands to reload via oxide
+
+oxide.reload EpicLootCreate
+
+admin command to force crate spawn
+/spawncrate
+
+the base crate spawns every 3 or 4 hours.
+
+you can choose the number of bots that spawn by changing the number BotCount
+
+private const int BotCount = 10; instead of 10 put the number you want
+
+you can change the probability of bradley spawn by changing the line BradleyChance
+
+private const float BradleyChance = 0.3f; changing the 0.3f to another number 0.xf currently 0.3f = 30%

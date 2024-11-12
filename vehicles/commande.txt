@@ -1,0 +1,49 @@
+[FR]
+
+Commande pour reload via oxide
+
+oxide.reload VehicleSpawner
+
+les commandes en jeu pour joueur
+
+/mymini fait spawn un minicopter toutes les 10 minutes avec 50 de fuel
+
+/myboat permet de faire spawn un tugboat une fois par joueur
+
+/mycar permet de faire spawn une caravane avec 50 de carburant une fois par joueur
+
+/myzod permet de faire spawn un zodiac toutes les 10 minutes.
+
+
+[EN]
+
+Command to reload via oxide
+
+oxide.reload VehicleSpawner
+
+in-game commands for player
+
+/mymini spawns a minicopter every 10 minutes with 50 fuel
+
+/myboat spawns a tugboat once per player
+
+/mycar spawns a caravan with 50 fuel once per player
+
+/myzod spawns a zodiac every 10 minutes.
+
+
+[PL]
+
+Polecenie przeładowania poprzez tlenek
+
+Oxide.reload VehicleSpawner
+
+sterowanie odtwarzaczem w grze
+
+/mymini tworzy minikopter co 10 minut z 50 paliwami
+
+/myboat pozwala raz na gracza odrodzić holownik
+
+/mycar pozwala raz na gracza stworzyć karawanę z 50 paliwami
+
+/myzod pozwala na spawnowanie zodiaku co 10 minut.

@@ -1,0 +1,19 @@
+[FR]
+
+Commande changement du nombre de personne max dans les groupes.
+
+actuellement 4. 
+
+/setgrouplimit <nombre>. (( a faire dans le tchat ig en etant admin))
+
+pour les permision le plugin est SetGroupLimitCommand
+
+[EN]
+
+Commande changement du nombre de personne max dans les groupes.
+
+actuellement 4. 
+
+/setgrouplimit <nombre>. (( a faire dans le tchat ig en etant admin))
+
+pour les permision le plugin est SetGroupLimitCommand

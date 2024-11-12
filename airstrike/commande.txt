@@ -1,0 +1,23 @@
+[FR]
+
+informations a propos de EnhancedAirstrike plugin
+
+le plugin est fait afind e permettre au joueur en echance de 6 mlrs dans leur inventaire de lancer une attaque mlrs contre un joueur precis en utilisisant la commandes
+/strike nom_du_joueur
+
+le plugin permet aussi au staff d'utilisé une commande similaire qui envoi 10 mlrs au lieu de 6 via la commande /adminstrike nom_du_joueur
+
+le plugin permet aussi au admin de faire le "ménage" si des teams som banni etc en allant sur la base en question via un script de fly etc et de faire la commande /megastrike ou en cliquant sur le logo de bombe en bas a gauche des barre de raccourci.
+cela lance un MLRS admin qui detruit tout autour de son point d'impact sur 5 metres
+
+[EN]
+
+information about EnhancedAirstrike plugin
+
+the plugin is made to allow the player in need of 6 mlrs in their inventory to launch an mlrs attack against a specific player by using the command
+/strike player_name
+
+the plugin also allows the staff to use a similar command that sends 10 mlrs instead of 6 via the command /adminstrike player_name
+
+the plugin also allows the admin to do the "cleaning" if teams are banned etc by going to the base in question via a fly script etc and doing the command /megastrike or by clicking on the bomb logo at the bottom left of the shortcut bar.
+this launches an admin MLRS that destroys everything around its impact point over 5 meters
